@@ -8,5 +8,5 @@ Jellyfin Custom Thumbnails for Shows Studios
 ### Path
 /var/lib/jellyfin/metadata/Studio
 #### Example of path
-Example for edit Paramount+ thumbnail:
+for edit Paramount+ thumbnail:
 /var/lib/jellyfin/metadata/Studio/Paramount+
