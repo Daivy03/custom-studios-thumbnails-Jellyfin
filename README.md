@@ -6,7 +6,10 @@ Jellyfin Custom Thumbnails for Shows Studios
 ## Thumbnails Size
 1066x600px 72ppi
 ### Path
+In Linux:
 /var/lib/jellyfin/metadata/Studio
+On Windows:
+%programdata%\Jellyfin\Server\metadata\Studio
 #### Example of path
 for edit Paramount+ thumbnail:
 /var/lib/jellyfin/metadata/Studio/Paramount+
