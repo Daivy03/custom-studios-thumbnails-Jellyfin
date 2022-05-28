@@ -9,7 +9,7 @@ Jellyfin Custom Thumbnails for Shows Studios
 <ul>
 <li>In Linux:
  /var/lib/jellyfin/metadata/Studio </li>
-<li>On Windows:
+<li>In Windows:
  %programdata%\Jellyfin\Server\metadata\Studio</li>
 </ul>
 
