@@ -9,10 +9,18 @@ Jellyfin Custom Thumbnails for Shows Studios
 <ul>
 <li>In Linux:
  /var/lib/jellyfin/metadata/Studio </li>
-<li>In Windows:
- %programdata%\Jellyfin\Server\metadata\Studio</li>
+<li>
+ In Windows:
+ %programdata%\Jellyfin\Server\metadata\Studio
+</li>
+
 </ul>
 
 ### Example of path
 for edit Paramount+ thumbnail:
+```
 /var/lib/jellyfin/metadata/Studio/Paramount+
+```
+
+## License
+![License](https://img.shields.io/github/license/Daivy03/daivy-utility-bot.svg)
